@@ -1,0 +1,12 @@
+
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:15
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:15
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:0
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:0
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:15
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:15
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:15
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:12
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:7
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:7
+Kolejka kopiec MAX obs³uguj¹ca 10000 liczb 	 czas obs³u¿enia elementów kolejki:7
