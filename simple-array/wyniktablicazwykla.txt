@@ -1,0 +1,5 @@
+
+Kolejka na tablicy zwyk³ej obs³uguj¹ca 10000 liczb 	czas obs³u¿enia elementów kolejki:250
+Kolejka na tablicy zwyk³ej obs³uguj¹ca 10000 liczb 	czas obs³u¿enia elementów kolejki:250
+Kolejka na tablicy zwyk³ej obs³uguj¹ca 10000 liczb 	czas obs³u¿enia elementów kolejki:266
+Kolejka na tablicy zwyk³ej obs³uguj¹ca 10000 liczb 	czas obs³u¿enia elementów kolejki:265
